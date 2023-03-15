@@ -9,7 +9,7 @@ import { Employee } from './employee';
 export class EmployeeService {
 
 private baseURL = "http://localhost:8081/api/v1/employees";
-  
+
 
   constructor(private httpClient: HttpClient) { }
 
@@ -27,6 +27,10 @@ private baseURL = "http://localhost:8081/api/v1/employees";
 
   updateEmployee(id:number , employee:Employee):Observable<object>{
      return this.httpClient.put(`${this.baseURL}/${id}`,employee);
+  }
+
+  deleteEmployee(id:number):Observable<Object>{
+    return this.httpClient.delete(`${this.baseURL}/${id}`);
   }
 
 }
