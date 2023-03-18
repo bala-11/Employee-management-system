@@ -15,11 +15,11 @@ A web project using Spring boot and Angular
 #Update an Existing employee
 ![image](https://user-images.githubusercontent.com/80876092/226083815-50752567-83cf-45f3-a9fd-9aa1ddd32a04.png)
 
-        ---> change the user details.
-        ![image](https://user-images.githubusercontent.com/80876092/226083848-c31108de-5898-45a8-814c-fb33ce8f72ab.png)
+#change the user details.
+![image](https://user-images.githubusercontent.com/80876092/226083848-c31108de-5898-45a8-814c-fb33ce8f72ab.png)
 
-  -->Update Employee List 
-  ![image](https://user-images.githubusercontent.com/80876092/226083867-f35ed37d-a813-49ca-b177-2011a58d5a34.png)
+#Update Employee List 
+![image](https://user-images.githubusercontent.com/80876092/226083867-f35ed37d-a813-49ca-b177-2011a58d5a34.png)
 
 
 
